@@ -1,0 +1,15 @@
+.box{
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    border: 2px solid purple;
+    box-shadow: 10px 10px 20px 20px  red;
+    transition: 5s;
+}
+.box:hover{
+    margin: 0 auto;
+    width: 800px;
+    height: 600px;
+    border: 2px solid pink;
+    box-shadow: 10px 10px 20px 20px darkgoldenrod;
+}
